@@ -3,6 +3,7 @@
 A distributed URL shortening service built with FastAPI and PostgreSQL, deployed on AWS EC2 with Route 53 for DNS routing. Uses a Redis caching layer to serve high-frequency redirects with sub-millisecond latency, reducing database load under high throughput. Containerized with Docker and configured with Nginx as a reverse proxy to serve the frontend, route API traffic, and maintain fault tolerance.
 
 **Live demo:** [http://shortn.online](http://shortn.online)
+**Live API docs (Swagger UI):** [http://shortn.online/docs](http://shortn.online/docs)
 
 ## Stack
 - **FastAPI** — REST API layer
