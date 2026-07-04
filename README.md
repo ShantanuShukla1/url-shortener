@@ -87,7 +87,13 @@ docker compose up --build -d
 
 ## Screenshots
 
-*(add screenshots here)*
+<img width="2549" height="1293" alt="urlshortenerfrontend" src="https://github.com/user-attachments/assets/64c6c4cf-a579-4602-86de-812e9201c2c2" />
+<img width="841" height="486" alt="shortlinkgeneration" src="https://github.com/user-attachments/assets/ae532811-81d7-43f0-a2b4-01f2c4bef3e1" />
+<img width="2525" height="1279" alt="swaggerui" src="https://github.com/user-attachments/assets/7afce750-dcb0-4fad-81cd-4a414223ce85" />
+<img width="1954" height="428" alt="urlshorteneroncloud" src="https://github.com/user-attachments/assets/4cd913d2-e631-4d10-95b0-c3b45a5b3d3c" />
+<img width="2131" height="285" alt="ec2instance" src="https://github.com/user-attachments/assets/c0b06901-6902-435e-a039-afc5460f0c6c" />
+<img width="2079" height="362" alt="hostedzone" src="https://github.com/user-attachments/assets/9108a97e-cd5a-4c4b-86b7-f107d52f60e2" />
+<img width="509" height="668" alt="folderstructure" src="https://github.com/user-attachments/assets/79032107-0f11-450e-9bb2-e61940e00ebb" />
 
 ## Project files
 - `app/` — FastAPI application code (routes, models, database, cache)
